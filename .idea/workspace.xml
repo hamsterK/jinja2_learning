@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bbde20a-a53f-4f8c-b38e-7879f24da481" name="Changes" comment="filters, macro, call">
-      <change afterPath="$PROJECT_DIR$/lesson_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2bbde20a-a53f-4f8c-b38e-7879f24da481" name="Changes" comment="FileSystemLoader, PackageLoader, DictLoader, FunctionLoader" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +41,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anastasiya\python_projects\python_sqlite\Jinja2_learning\templates" />
       <recent name="C:\Users\Anastasiya\python_projects\python_sqlite\Jinja2_learning" />
     </key>
   </component>
@@ -104,13 +101,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731449953042</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FileSystemLoader, PackageLoader, DictLoader, FunctionLoader">
+      <option name="closed" value="true" />
+      <created>1731533772722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731533772722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying out jinja2" />
     <MESSAGE value="raw, for, if" />
     <MESSAGE value="filters, macro, call" />
-    <option name="LAST_COMMIT_MESSAGE" value="filters, macro, call" />
+    <MESSAGE value="FileSystemLoader, PackageLoader, DictLoader, FunctionLoader" />
+    <option name="LAST_COMMIT_MESSAGE" value="FileSystemLoader, PackageLoader, DictLoader, FunctionLoader" />
   </component>
 </project>
