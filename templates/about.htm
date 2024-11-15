@@ -3,6 +3,7 @@
 {% block title %}About website{% endblock %}
 
 {% block content %}
-<h1>About website</h1>
+{% block table_contents %}{{ super() }}{% endblock %}
+<h1>{{ self.title() }}</h1>
 <p>Cool website</p>
 {% endblock %}
